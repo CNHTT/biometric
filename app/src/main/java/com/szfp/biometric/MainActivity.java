@@ -228,6 +228,7 @@ public class MainActivity extends BaseActivity {
         bean.setModel(modelByte);
         if (DbHelper.insertBean(bean)) {
             id=null;
+            etName.setText("");
             ToastUtils.success("SUCCESS");
         } else {
             ToastUtils.error("ERROR");
