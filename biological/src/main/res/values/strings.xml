@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">biological</string>
+    <!-- FingerprintActivity -->
+    <string name="print_finger">Please click fingerprints!</string>
+    <string name="print_finger_again">Press again fingerprint!</string>
+    <string name="processing">Processing ...</string>
+    <string name="generate_char_fail">Generate the feature value failed!</string>
+    <string name="reg_model_success">Template synthesis success!</string>
+    <string name="reg_model_fail">Synthetic template failed!</string>
+    <string name="register_success">Registered successfully!</string>
+    <string name="register_fail">Registration failed!</string>
+    <string name="verifying_wait">Validating, please wait ...</string>
+    <string name="down_char_fail">Download a template fails</string>
+    <string name="verifying_through">Verified through</string>
+    <string name="verifying_fail">Authentication failed</string>
+    <string name="up_image_success">up image success</string>
+    <string name="up_image_fail">up image fail</string>
+    <string name="clear_model">Clear Model</string>
+    <string name="id_model">ID:</string>
+    <string name="clear_model_success">clear model success</string>
+    <string name="clear_model_fail">clear model fail</string>
+    <string name="register3">register</string>
+    <string name="down_store">down and store</string>
+    <string name="validate3">verification</string>
+    <string name="down_store_success">down and store success</string>
+    <string name="down_store_fail">down and store fail</string>
+    <string name="search_success">search success</string>
+    <string name="search_fail">search fail</string>
+    <string name="down_store_null">model can not be null</string>
+
+</resources>

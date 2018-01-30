@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BIOMETRIC</string>
+    <string name="name">Name</string>
+    <string name="save_the_information">Save the information</string>
+    <string name="register_fingerprints">Register fingerprints</string>
+    <string name="clear_the_fingerprints">Clear the fingerprints</string>
+    <string name="finding_user_information">Finding User Information</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="todo">TODO</string>
+</resources>

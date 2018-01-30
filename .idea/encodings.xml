@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/BarCodeAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/CPUAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/FingerprintAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/ICCardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/M1CardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/NFC/NdefMessageParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/PsamAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/QRScannerAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/RFID.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/RFID15693API.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/RFIDAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/SerialPortManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/SmartCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/SmartCardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/android_serialport_api/TypeBCardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/BarCodeAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/CPUAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/FingerprintAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/ICCardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/M1CardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/NFC/NdefMessageParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/PsamAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/QRScannerAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/RFID.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/RFID15693API.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/RFIDAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/SerialPortManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/SmartCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/SmartCardAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biological/src/main/java/com/android_serialport_api/TypeBCardAPI.java" charset="GBK" />
+  </component>
+</project>
